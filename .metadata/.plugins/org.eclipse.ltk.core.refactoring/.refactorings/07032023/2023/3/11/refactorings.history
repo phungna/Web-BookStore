@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;demoSvl&apos; to &apos;libraryonline/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;07032023&apos;&#x0D;&#x0A;- Destination element: &apos;libraryonline/src/main/java&apos;&#x0D;&#x0A;- Original element: &apos;07032023/src/main/java/demoSvl&apos;" description="Copy package" destination="=libraryonline/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/" element1="/src\/main\/java&lt;demoSvl" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1678177535047" version="1.0"/>
+</session>
